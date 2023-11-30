@@ -10,7 +10,7 @@ public class SimpleTcpServer
         TcpListener server = null;
         try
         {
-            Int32 port = 13000;
+            Int32 port = 13000; // test
             IPAddress localAddr = IPAddress.Parse("127.0.0.1");
 
             server = new TcpListener(localAddr, port);
