@@ -1,0 +1,14 @@
+/Users/matthewcavallo/Projects/simpleServer/test1/bin/Debug/net7.0/test1
+/Users/matthewcavallo/Projects/simpleServer/test1/bin/Debug/net7.0/test1.deps.json
+/Users/matthewcavallo/Projects/simpleServer/test1/bin/Debug/net7.0/test1.runtimeconfig.json
+/Users/matthewcavallo/Projects/simpleServer/test1/bin/Debug/net7.0/test1.dll
+/Users/matthewcavallo/Projects/simpleServer/test1/bin/Debug/net7.0/test1.pdb
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/test1.AssemblyInfoInputs.cache
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/test1.AssemblyInfo.cs
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/test1.csproj.CoreCompileInputs.cache
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/test1.dll
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/refint/test1.dll
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/test1.pdb
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/test1.genruntimeconfig.cache
+/Users/matthewcavallo/Projects/simpleServer/test1/obj/Debug/net7.0/ref/test1.dll
